@@ -6,6 +6,20 @@ This repository contains an anonymized survey dataset on students' perceptions o
 
 The dataset contains 522 valid responses. The final measurement instrument includes 15 retained questionnaire items organized into five constructs.
 
+## Data collection
+
+Data were collected through a cross-sectional survey conducted between February and March 2026 at FPT University, Ho Chi Minh City Campus, Vietnam. The target population consisted of undergraduate students enrolled in four academic programs: Artificial Intelligence (AI), Software Engineering (SE), Integrated Circuit Design (IC), and Business. The combined student population across these programs was approximately 2,000.
+
+The questionnaire was administered through Google Forms in a bilingual English–Vietnamese format. Survey links and QR codes were provided to students through selected classes, and students completed the questionnaire using their own devices. Participation was voluntary and anonymous. Students could decline participation by not accessing the survey, while those who chose to participate were required to provide informed consent within the online form before proceeding. Participants were informed that their responses would be kept confidential and used solely for research purposes.
+
+All questionnaire fields required for the released dataset were configured as mandatory in Google Forms. Consequently, the dataset contains no missing responses for these variables. A total of 522 students completed the survey, and all 522 responses were retained in the released dataset; no observations were excluded during data preparation.
+
+Because recruitment was conducted through scheduled classes, students who were absent during the survey administration sessions did not have the same opportunity to participate. The resulting dataset should therefore be regarded as a classroom-based convenience sample rather than a probability sample of the approximately 2,000 students in the four programs.
+
+## Ethics and consent
+
+Participation in the survey was voluntary and anonymous. Students were informed of the purpose of the research, the confidentiality of their responses, and their right to decline participation. Students who chose to participate provided informed consent electronically through Google Forms before completing the questionnaire. The collected information was used solely for research purposes.
+
 ## Repository contents
 
 | File | Description |
@@ -40,7 +54,7 @@ The five-point response scale for `x1`–`x15` is:
 4. Agree / Đồng ý
 5. Strongly agree / Hoàn toàn đồng ý
 
-For exact variable definitions, bilingual item wording, coding, and item-to-construct mapping, see `codebook_bilingual.xlsx`.
+For exact variable definitions, bilingual item wording, coding, and item-to-construct mapping, see `codebook.xlsx`.
 
 ## Construct mapping
 
