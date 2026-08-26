@@ -8,7 +8,7 @@ The dataset contains 522 valid responses. The final measurement instrument inclu
 
 ## Data collection
 
-Data were collected through a cross-sectional survey conducted between February and March 2026 at FPT University, Ho Chi Minh City Campus, Vietnam. The target population consisted of undergraduate students enrolled in four academic programs: Artificial Intelligence (AI), Software Engineering (SE), Integrated Circuit Design (IC), and Business. The combined student population across these programs was approximately 2,000.
+Data were collected through a cross-sectional survey conducted in May 2026 at FPT University, Ho Chi Minh City Campus, Vietnam. The target population consisted of undergraduate students enrolled in four academic programs: Artificial Intelligence (AI), Software Engineering (SE), Integrated Circuit Design (IC), and Business. The combined student population across these programs was approximately 2,000.
 
 The questionnaire was administered through Google Forms in a bilingual English–Vietnamese format. Survey links and QR codes were provided to students through selected classes, and students completed the questionnaire using their own devices. Participation was voluntary and anonymous. Students could decline participation by not accessing the survey, while those who chose to participate were required to provide informed consent within the online form before proceeding. Participants were informed that their responses would be kept confidential and used solely for research purposes.
 
